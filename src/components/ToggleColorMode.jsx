@@ -22,7 +22,6 @@ function MyApp() {
         justifyContent: 'flex-start',
         bgcolor: 'background.default',
         color: 'text.primary',
-        
         borderRadius: 1,
         p: 3,
         overflow: 'hidden'
