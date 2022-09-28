@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# To Do List 📄
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![todo-list1](https://user-images.githubusercontent.com/89364741/192897013-9f51ca87-0fd9-4aaf-86d1-ca78f5491f42.png)
+![todo-list2](https://user-images.githubusercontent.com/89364741/192897014-524c4709-1877-4cf2-9d2b-132351f0029f.png)
+
+To Do List criada com ReactJS
+
+## 🖥 Tecnologias 
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Git
 
 ## Available Scripts
 
