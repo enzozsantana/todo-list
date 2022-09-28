@@ -1,6 +1,6 @@
 # To Do List 📄
 
-To Do List (Light Mode e Dark Mode) criada com ReactJS
+To Do List (Light Mode e Dark Mode) criada com ReactJS. Nela você pode adicionar, editar ou remover tarefas.
 
 ![todo-list1](https://user-images.githubusercontent.com/89364741/192897013-9f51ca87-0fd9-4aaf-86d1-ca78f5491f42.png)
 ![todo-list2](https://user-images.githubusercontent.com/89364741/192897014-524c4709-1877-4cf2-9d2b-132351f0029f.png)
