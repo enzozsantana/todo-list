@@ -28,8 +28,8 @@ function MyApp() {
         overflow: 'hidden'
       }}
     >
-      <div style={{display: 'flex', gap: '20px'}}>
-        <h1>Todo List</h1>
+      <div style={{display: 'flex', gap: '40px'}}>
+        <h1>To Do List</h1>
         <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
           {theme.palette.mode} mode
           <IconButton sx={{ ml: 1 }} onClick={colorMode.toggleColorMode} color="inherit">
